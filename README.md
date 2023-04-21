@@ -1,6 +1,6 @@
-> Sammlung von hilfreichen Informationen und Links zu diversen Ressourcen rund um das Thema Informations- und CybersicherheitCollection of Event ID resources useful for Digital Forensics and Incident Response
+> Sammlung von hilfreichen Informationen und Links zu diversen Ressourcen rund um das Thema Informations- und Cybersicherheit
 
-## Contents
+## Inhalte
 
 - [Assessments](#assessments)
 - [Strategie](#contents)
