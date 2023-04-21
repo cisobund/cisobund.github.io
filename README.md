@@ -16,3 +16,8 @@
     - [SOC CMM](https://www.soc-cmm.com/) - SOC Maturity Model von Rob van Os
 - CERT / CSIRT
     - [SIM3](https://opencsirt.org/csirt-maturity/sim3-online-tool/) - SIM 3 Online Assessment Tool der Open CSIRT Foundation
+
+
+## IT Grundschutz
+### Anwendungen
+- [Office 365 Anforderungen](https://news.microsoft.com/wp-content/uploads/prod/sites/40/2023/03/Office365_IT-Grundschutz_Workbook_DE.pdf) - Leitfaden zur Anwendung des IT Grundschutz auf Microsoft 365
