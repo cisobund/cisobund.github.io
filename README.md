@@ -24,5 +24,5 @@
 
 ### Auslandsreisen
 - [Sicherheit auf Auslandsdienstreisen](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Grundschutz/IT-GS-Kompendium_Einzel_PDFs_2023/03_CON_Konzepte_und_Vorgehensweisen/CON_7_Informationssicherheit_auf_Auslandsreisen_Edition_2023.pdf?__blob=publicationFile&v=3#download=1) - BSI IT Grundschutz Baustein CON.7 (Stand Februar 2023)
-- [Sicherheit auf Geschäftsreisen](https://www.verfassungsschutz.de/SharedDocs/kurzmeldungen/DE/2022/2022-05-24-informationsblatt-geschaeftsreise.html) - Wirtschaftsschutz
-- 
+- [Sicherheit auf Geschäftsreisen](https://www.verfassungsschutz.de/SharedDocs/kurzmeldungen/DE/2022/2022-05-24-informationsblatt-geschaeftsreise.html) [[Allgemein]](https://www.verfassungsschutz.de/SharedDocs/publikationen/DE/wirtschafts-wissenschaftsschutz/2022-05-24-infoblatt-geschaeftsreisen-allgemein.pdf?__blob=publicationFile&v=3) [[China]](https://www.verfassungsschutz.de/SharedDocs/publikationen/DE/wirtschafts-wissenschaftsschutz/2022-05-24-infoblatt-geschaeftsreisen-china.pdf?__blob=publicationFile&v=7) - Informationen des Wirtschaftsschutz/Verfassungsschutz
+- [IT Sicherheit auf Reisen](https://www.bsi.bund.de/DE/Themen/Verbraucherinnen-und-Verbraucher/Informationen-und-Empfehlungen/Cyber-Sicherheitsempfehlungen/IT-Sicherheit-auf-Reisen/it-sicherheit-auf-reisen_node.html) - BSI Reisehinweise
