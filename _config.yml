@@ -3,3 +3,6 @@ description: Sammlung rund um Informations- und Cybersicherheit
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-hacker
+author:
+  twitter: @cisobund
+year: [Current Year]
