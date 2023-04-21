@@ -1,5 +1,11 @@
-# CISO Bund
-Sammlung von Links und Informationen rund um das Thema Informations- und Cybersicherheit
+> Sammlung von hilfreichen Informationen und Links zu diversen Ressourcen rund um das Thema Informations- und CybersicherheitCollection of Event ID resources useful for Digital Forensics and Incident Response
+
+## Contents
+
+- [Assessments](#assessments)
+- [Strategie](#contents)
+- [Rahmenwerke und Standards](#rahmenwerke-und-standards)
+- [Richtlinien](#richtlinien)
 
 ## Assessments
 ### Basis Assesments Übergreifend
