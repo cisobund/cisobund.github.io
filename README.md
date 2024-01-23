@@ -6,6 +6,7 @@
 - [Strategie](#contents)
 - [Rahmenwerke und Standards](#rahmenwerke-und-standards)
 - [Richtlinien](#richtlinien)
+- [Trainings](#training)
 
 ## Assessments
 ### Basis Assesments Übergreifend
@@ -31,3 +32,8 @@
 
 ## To be sorted
 - [Macro Security](https://www.cyber.gov.au/resources-business-and-government/maintaining-devices-and-systems/system-hardening-and-administration/system-hardening/microsoft-office-macro-security) - Entscheidungshilfe und Konfigurationsempfehlungen des Australian Cyber Security Center (ACSC) 
+
+## Trainings
+### Hersteller Trainings
+- [Vulnerability Management von Qualys](https://www.qualys.com/training/#self-paced) - Diverse self-paced Mini-Trainingskurse rund ums Schwachstellenmanagement (Jan 24)
+- 
